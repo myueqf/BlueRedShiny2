@@ -1,3 +1,4 @@
+![](./BlueRedShiny2.gif)
 ```glsl
 #version 330 compatibility
 
